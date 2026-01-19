@@ -101,27 +101,27 @@ Berikut adalah tampilan langkah-langkah penggunaan aplikasi Smart Naïve Bayes:
 
 <p align="center">
   <b>1. Tampilan Utama & Manajemen Dataset</b><br>
-  <img src="Images/gambar1.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
+  <img src="Images/Gambar1.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
 </p>
 
 <p align="center">
   <b>2. Statistik Performa & Cek Akurasi</b><br>
-  <img src="Images/gambar2.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
+  <img src="Images/Gambar2.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
 </p>
 
 <p align="center">
   <b>3. Form Input Prediksi Nasabah</b><br>
-  <img src="Images/gambar3.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
+  <img src="Images/Gambar3.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
 </p>
 
 <p align="center">
   <b>4. Hasil Analisa & Detail Perhitungan</b><br>
-  <img src="Images/gambar4.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
+  <img src="Images/Gambar4.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
 </p>
 
 <p align="center">
   <b>5. Riwayat Analisa & Fitur Simpan Data</b><br>
-  <img src="Images/gambar5.png" width="800" style="border-radius: 10px;">
+  <img src="Images/Gambar5.png" width="800" style="border-radius: 10px;">
 </p>
 
 ---
