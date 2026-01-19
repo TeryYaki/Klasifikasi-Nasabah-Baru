@@ -1,0 +1,21 @@
+id_nasabah,ketepatan_waktu,frekuensi_terlambat,jumlah_tunggakan,konsistensi,kelas
+N-001,Terlambat,6 Kali,> Rp2 Juta,Buruk,Tidak Potensial
+N-002,Tepat Waktu,1 Kali,Rp0,Stabil,Potensial
+N-003,Terlambat,3 Kali,< Rp500 Ribu,Tidak Stabil,Dipertimbangkan
+N-004,Tepat Waktu,1 Kali,< Rp500 Ribu,Stabil,Potensial
+N-005,Tepat Waktu,0 Kali,Rp0,Sangat Stabil,Potensial
+N-006,Terlambat,3 Kali,< Rp500 Ribu,Tidak Stabil,Dipertimbangkan
+N-007,Tepat Waktu,1 Kali,< Rp500 Ribu,Stabil,Potensial
+N-008,Terlambat,5 Kali,> Rp2 Juta,Tidak Stabil,Tidak Potensial
+N-009,Tepat Waktu,1 Kali,Rp0,Stabil,Potensial
+N-010,Tepat Waktu,0 Kali,Rp0,Sangat Stabil,Potensial
+N-011,Terlambat,2 Kali,Rp1 - 2 Juta,Tidak Stabil,Dipertimbangkan
+N-012,Tepat Waktu,1 Kali,< Rp500 Ribu,Stabil,Potensial
+N-013,Terlambat,5 Kali,> Rp2 Juta,Buruk,Tidak Potensial
+N-014,Terlambat,5 Kali,> Rp2 Juta,Buruk,Tidak Potensial
+N-015,Tepat Waktu,2 Kali,< Rp500 Ribu,Tidak Stabil,Dipertimbangkan
+N-016,Tepat Waktu,1 Kali,< Rp500 Ribu,Stabil,Potensial
+N-017,Terlambat,4 Kali,> Rp2 Juta,Tidak Stabil,Tidak Potensial
+N-018,Terlambat,3 Kali,< Rp500 Ribu,Kurang Stabil,Dipertimbangkan
+N-019,Terlambat,5 Kali,> Rp2 Juta,Tidak Stabil,Tidak Potensial
+N-020,Terlambat,2 Kali,Rp1 - 2 Juta,Tidak Stabil,Dipertimbangkan

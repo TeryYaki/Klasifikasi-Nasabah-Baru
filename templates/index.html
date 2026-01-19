@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Klasifikasi Nasabah</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>🚀 Analisa Nasabah Baru</h1>
+        <p>Sistem Klasifikasi Naïve Bayes</p>
+    </div>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}
+            {% set color = '#10b981' if category=='success' else ('#ef4444' if category=='error' else '#f59e0b') %}
+            {% set icon = '✅' if category=='success' else ('⛔' if category=='error' else '⚠️') %}
+            
+          <div class="info" style="border-left-color: {{ color }}; background: white;">
+            {{ icon }} &nbsp; {{ message }}
+          </div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <div class="card">
+        <h2>📂 Manajemen Dataset</h2>
+        <div style="display: flex; flex-direction: column; gap: 15px;">
+            <form method="POST" enctype="multipart/form-data">
+                <input type="hidden" name="action" value="upload">
+                <div style="display: flex; gap: 10px; align-items: center;">
+                    <input type="file" name="dataset" accept=".csv" required>
+                    <button type="submit">Upload</button>
+                </div>
+            </form>
+
+            {% if dataset_ready %}
+            <div style="display: flex; gap: 10px;">
+                <a href="/download" style="text-decoration: none; flex: 1;">
+                    <button type="button" style="width: 100%; background: #059669;">📥 Download / Export Dataset</button>
+                </a>
+                
+                <form method="POST" action="/reset_dataset" onsubmit="return confirm('⚠️ Yakin hapus semua data dan riwayat?');" style="flex: 1;">
+                    <button type="submit" class="btn-danger" style="width: 100%;">🗑️ Reset Semua</button>
+                </form>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    {% if dataset_ready %}
+    <div class="card">
+        <h2>📊 Statistik Performa</h2>
+        
+        <div style="background: #f0f9ff; padding: 20px; border-radius: 12px; display: flex; align-items: center; justify-content: space-between; margin-bottom: 25px; border: 1px solid #bae6fd;">
+            <div>
+                <strong style="color: #0369a1; font-size: 1.1rem;">Validasi Akurasi AI</strong>
+                <p style="color: #0c4a6e; font-size: 0.9rem; margin-top: 5px;">Uji kecerdasan model dengan 20% data acak.</p>
+            </div>
+            <form method="POST">
+                <input type="hidden" name="action" value="cek_akurasi">
+                <button type="submit" style="background: #0ea5e9; box-shadow: 0 4px 6px rgba(14, 165, 233, 0.2);">🔍 Cek Sekarang</button>
+            </form>
+        </div>
+
+        {% if akurasi_info %}
+        <div class="result" style="margin-bottom: 30px; background: linear-gradient(135deg, #10b981, #059669); color: white; border: none;">
+            <h3 style="font-size: 2rem; color: white;">{{ akurasi_info.skor }}%</h3>
+            <p style="color: #d1fae5;">Akurasi Model (Dari {{ akurasi_info.jumlah }} data uji)</p>
+        </div>
+        {% endif %}
+
+        <div class="grid">
+            <div style="background: #fff; padding: 10px; border-radius: 12px; border: 1px solid #f3f4f6;">
+                <canvas id="chartKelas"></canvas>
+            </div>
+            <div style="background: #fff; padding: 10px; border-radius: 12px; border: 1px solid #f3f4f6;">
+                <canvas id="chartKonsistensi"></canvas>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    {% if dataset_ready and options %}
+    <div class="card">
+        <h2>🧮 Prediksi Nasabah Baru</h2>
+        <form method="POST">
+            <input type="hidden" name="action" value="klasifikasi">
+
+            <div class="grid">
+                <div>
+                    <label>Ketepatan Waktu</label>
+                    <select name="ketepatan_waktu">
+                        {% for val in options['ketepatan_waktu'] %}
+                            <option value="{{ val }}">{{ val }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div>
+                    <label>Frekuensi Terlambat (Ketik/Pilih)</label>
+                    <input type="text" name="frekuensi_terlambat" list="list_frekuensi" placeholder="Contoh: 0 Kali..." required>
+                    <datalist id="list_frekuensi">
+                        {% for val in options['frekuensi_terlambat'] %}
+                            <option value="{{ val }}">
+                        {% endfor %}
+                    </datalist>
+                </div>
+                <div>
+                    <label>Jumlah Tunggakan (Ketik/Pilih)</label>
+                    <input type="text" name="jumlah_tunggakan" list="list_tunggakan" placeholder="Contoh: Rp 0..." required>
+                    <datalist id="list_tunggakan">
+                        {% for val in options['jumlah_tunggakan'] %}
+                            <option value="{{ val }}">
+                        {% endfor %}
+                    </datalist>
+                </div>
+                <div>
+                    <label>Konsistensi</label>
+                    <select name="konsistensi">
+                        {% for val in options['konsistensi'] %}
+                            <option value="{{ val }}">{{ val }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+
+            <div class="button-group">
+                <button type="submit" style="background: #4f46e5; width: 100%;">⚡ Analisa Sekarang</button>
+            </div>
+        </form>
+
+        {% if hasil %}
+        <div class="result">
+            <h3 style="color: #15803d; margin-bottom: 10px;">Hasil Analisa:</h3>
+            <span class="badge" style="font-size: 1.2rem; padding: 10px 25px; background: {{ '#10b981' if hasil == 'Potensial' else '#ef4444' }};">
+                {{ hasil }}
+            </span>
+            
+            <div style="margin-top: 25px; padding-top: 20px; border-top: 1px dashed #ccc;">
+                <h4 style="margin-bottom: 10px; color: #374151;">💾 Simpan Data Ini?</h4>
+                <p style="font-size: 0.9em; color: #666; margin-bottom: 15px;">
+                    Jika data ini benar, simpan ke dataset agar AI semakin pintar kedepannya.
+                </p>
+                
+                <form method="POST" style="background: #f9fafb; padding: 15px; border-radius: 8px; border: 1px solid #e5e7eb;">
+                    <input type="hidden" name="action" value="tambah_data">
+                    <input type="hidden" name="ketepatan_waktu" value="{{ request.form.get('ketepatan_waktu') }}">
+                    <input type="hidden" name="frekuensi_terlambat" value="{{ request.form.get('frekuensi_terlambat') }}">
+                    <input type="hidden" name="jumlah_tunggakan" value="{{ request.form.get('jumlah_tunggakan') }}">
+                    <input type="hidden" name="konsistensi" value="{{ request.form.get('konsistensi') }}">
+
+                    <div style="display: flex; gap: 10px; align-items: flex-end;">
+                        <div style="flex: 1;">
+                            <label style="font-size: 0.85em;">Konfirmasi Hasil Akhir:</label>
+                            <select name="final_kelas" style="padding: 8px; width: 100%; border: 1px solid #ccc; border-radius: 6px;">
+                                {% for val in options['ketepatan_waktu'] %} 
+                                    {% endfor %}
+                                {% for label in chart_data.kelas_labels %}
+                                    <option value="{{ label }}" {{ 'selected' if label == hasil else '' }}>{{ label }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <button type="submit" style="background: #0891b2; padding: 10px 20px;">💾 Simpan & Perbarui Model</button>
+                    </div>
+                </form>
+            </div>
+            {% if langkah_manual %}
+            <div style="margin-top: 20px; text-align: left;">
+                <details>
+                    <summary>📂 Lihat Detail Perhitungan Matematis</summary>
+                    <div style="margin-top: 15px;">
+                        {% for kelas, data in langkah_manual.items() %}
+                        <div style="margin-bottom: 10px; padding: 10px; background: white; border: 1px solid #e5e7eb; border-radius: 8px;">
+                            <strong style="color: var(--primary);">Kelas {{ kelas }}</strong>
+                            <br>
+                            <span style="font-family: monospace; color: #666;">Likelihood Score: {{ data.likelihood }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </details>
+            </div>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+    {% endif %}
+
+    {% if dataset_ready %}
+    <div class="card">
+        <h2>🕒 Riwayat Analisa Hari Ini</h2>
+        <div style="overflow-x: auto;">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Waktu</th>
+                        <th>Ketepatan</th>
+                        <th>Frekuensi</th>
+                        <th>Tunggakan</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in riwayat %}
+                    <tr>
+                        <td style="font-size: 0.85em; color: #6b7280;">{{ row['Tanggal'] }}</td>
+                        <td>{{ row['Ketepatan Waktu'] }}</td>
+                        <td>{{ row['Frekuensi'] }}</td>
+                        <td>{{ row['Tunggakan'] }}</td>
+                        <td>
+                            <span class="badge" style="background: {{ '#10b981' if row['Hasil Prediksi'] == 'Potensial' else '#ef4444' }};">
+                                {{ row['Hasil Prediksi'] }}
+                            </span>
+                        </td>
+                    </tr>
+                    {% else %}
+                    <tr>
+                        <td colspan="5" style="text-align: center; color: #9ca3af; padding: 30px;">
+                            Belum ada data yang diproses hari ini.
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+
+{% if chart_data %}
+<script>
+    const commonOptions = {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: { legend: { position: 'bottom' } }
+    };
+
+    new Chart(document.getElementById('chartKelas'), {
+        type: 'doughnut',
+        data: {
+            labels: {{ chart_data.kelas_labels | tojson }},
+            datasets: [{ 
+                data: {{ chart_data.kelas_values | tojson }}, 
+                backgroundColor: ['#10b981', '#ef4444', '#f59e0b'],
+                borderWidth: 0
+            }]
+        },
+        options: { 
+            ...commonOptions, 
+            plugins: { ...commonOptions.plugins, title: { display: true, text: 'Proporsi Nasabah' } } 
+        }
+    });
+
+    new Chart(document.getElementById('chartKonsistensi'), {
+        type: 'bar',
+        data: {
+            labels: {{ chart_data.konsistensi_labels | tojson }},
+            datasets: [{ 
+                label: 'Jumlah', 
+                data: {{ chart_data.konsistensi_values | tojson }}, 
+                backgroundColor: '#6366f1',
+                borderRadius: 5
+            }]
+        },
+        options: { 
+            ...commonOptions, 
+            plugins: { ...commonOptions.plugins, title: { display: true, text: 'Distribusi Konsistensi' } },
+            scales: { y: { beginAtZero: true, grid: { display: false } }, x: { grid: { display: false } } }
+        }
+    });
+</script>
+{% endif %}
+
+</body>
+</html>

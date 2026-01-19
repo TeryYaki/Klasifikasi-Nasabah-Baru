@@ -1,0 +1,11 @@
+id_nasabah,ketepatan_waktu,frekuensi_terlambat,jumlah_tunggakan,konsistensi,kelas
+N-001,Tepat Waktu,0 Kali,Rp0,Sangat Stabil,Potensial
+N-002,Tepat Waktu,0 Kali,Rp0,Sangat Stabil,Tidak Potensial
+N-003,Tepat Waktu,0 Kali,Rp0,Sangat Stabil,Potensial
+N-004,Tepat Waktu,0 Kali,Rp0,Sangat Stabil,Tidak Potensial
+N-005,Tepat Waktu,0 Kali,Rp0,Sangat Stabil,Potensial
+N-006,Terlambat,5 Kali,> Rp2 Juta,Buruk,Tidak Potensial
+N-007,Terlambat,5 Kali,> Rp2 Juta,Buruk,Potensial
+N-008,Terlambat,5 Kali,> Rp2 Juta,Buruk,Tidak Potensial
+N-009,Terlambat,5 Kali,> Rp2 Juta,Buruk,Potensial
+N-010,Terlambat,5 Kali,> Rp2 Juta,Buruk,Tidak Potensial
