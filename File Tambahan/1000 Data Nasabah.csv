@@ -1,0 +1,1001 @@
+﻿ID Nasabah;Ketepatan Waktu;Frekuensi Terlambat (per Tahun);Jumlah Tunggakan;Konsistensi Pembayaran;Label Nasabah
+N-001;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-002;Terlambat;3 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-003;Tepat Waktu;0 kali;Rp0 ;Stabil;Potensial
+N-004;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-005;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Potensial
+N-006;Terlambat;1 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-007;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-008;Terlambat;3 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-009;Tepat Waktu;0 kali;Rp0 ;Stabil;Potensial
+N-010;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-011;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Potensial
+N-012;Terlambat;1 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-013;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-014;Terlambat;3 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-015;Tepat Waktu;0 kali;Rp0 ;Stabil;Potensial
+N-016;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-017;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Potensial
+N-018;Terlambat;1 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-019;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-020;Terlambat;3 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-021;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-022;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-023;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-024;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-025;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-026;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-027;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-028;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-029;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-030;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-031;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-032;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-033;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-034;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-035;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-036;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-037;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-038;Tepat Waktu;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-039;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-040;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-041;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-042;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-043;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-044;Terlambat;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-045;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-046;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-047;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-048;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-049;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-050;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-051;Terlambat;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-052;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-053;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-054;Terlambat;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-055;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-056;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-057;Tepat Waktu;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-058;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-059;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-060;Tepat Waktu;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-061;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-062;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-063;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-064;Terlambat;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-065;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-066;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-067;Tepat Waktu;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-068;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-069;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-070;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-071;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-072;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-073;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-074;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-075;Terlambat;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-076;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-077;Terlambat;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-078;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-079;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-080;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-081;Tepat Waktu;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-082;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-083;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-084;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-085;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-086;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-087;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-088;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-089;Terlambat;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-090;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-091;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-092;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-093;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-094;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-095;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-096;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-097;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-098;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-099;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-100;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-101;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-102;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-103;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-104;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-105;Tepat Waktu;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-106;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-107;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-108;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-109;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-110;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-111;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-112;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-113;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-114;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-115;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-116;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-117;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-118;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-119;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-120;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-121;Tepat Waktu;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-122;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-123;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-124;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-125;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-126;Tepat Waktu;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-127;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-128;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-129;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-130;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-131;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-132;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-133;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-134;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-135;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-136;Terlambat;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-137;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-138;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-139;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-140;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-141;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-142;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-143;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-144;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-145;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-146;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-147;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-148;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-149;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-150;Terlambat;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-151;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-152;Tepat Waktu;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-153;Tepat Waktu;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-154;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-155;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-156;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-157;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-158;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-159;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-160;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-161;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-162;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-163;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-164;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-165;Terlambat;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-166;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-167;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-168;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-169;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-170;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-171;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-172;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-173;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-174;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-175;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-176;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-177;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-178;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-179;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-180;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-181;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-182;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-183;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-184;Tepat Waktu;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-185;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-186;Tepat Waktu;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-187;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-188;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-189;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-190;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-191;Terlambat;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-192;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-193;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-194;Tepat Waktu;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-195;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-196;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-197;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-198;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-199;Tepat Waktu;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-200;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-201;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-202;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-203;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-204;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-205;Tepat Waktu;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-206;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-207;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-208;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-209;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-210;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-211;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-212;Tepat Waktu;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-213;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-214;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-215;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-216;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-217;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-218;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-219;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-220;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-221;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-222;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-223;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-224;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-225;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-226;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-227;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-228;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-229;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-230;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-231;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-232;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-233;Tepat Waktu;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-234;Tepat Waktu;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-235;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-236;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-237;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-238;Tepat Waktu;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-239;Tepat Waktu;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-240;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-241;Terlambat;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-242;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-243;Terlambat;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-244;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-245;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-246;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-247;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-248;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-249;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-250;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-251;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-252;Tepat Waktu;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-253;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-254;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-255;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-256;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-257;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-258;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-259;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-260;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-261;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-262;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-263;Tepat Waktu;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-264;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-265;Terlambat;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-266;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-267;Terlambat;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-268;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-269;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-270;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-271;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-272;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-273;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-274;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-275;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-276;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-277;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-278;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-279;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-280;Tepat Waktu;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-281;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-282;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-283;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-284;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-285;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-286;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-287;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-288;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-289;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-290;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-291;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-292;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-293;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-294;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-295;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-296;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-297;Terlambat;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-298;Terlambat;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-299;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-300;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-301;Terlambat;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-302;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-303;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-304;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-305;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-306;Terlambat;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-307;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-308;Terlambat;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-309;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-310;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-311;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-312;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-313;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-314;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-315;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-316;Tepat Waktu;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-317;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-318;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-319;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-320;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-321;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-322;Tepat Waktu;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-323;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-324;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-325;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-326;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-327;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-328;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-329;Terlambat;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-330;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-331;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-332;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-333;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-334;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-335;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-336;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-337;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-338;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-339;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-340;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-341;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-342;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-343;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-344;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-345;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-346;Terlambat;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-347;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-348;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-349;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-350;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-351;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-352;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-353;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-354;Tepat Waktu;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-355;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-356;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-357;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-358;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-359;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-360;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-361;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-362;Tepat Waktu;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-363;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-364;Terlambat;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-365;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-366;Tepat Waktu;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-367;Terlambat;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-368;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-369;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-370;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-371;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-372;Terlambat;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-373;Tepat Waktu;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-374;Terlambat;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-375;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-376;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-377;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-378;Tepat Waktu;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-379;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-380;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-381;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-382;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-383;Tepat Waktu;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-384;Terlambat;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-385;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-386;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-387;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-388;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-389;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-390;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-391;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-392;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-393;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-394;Tepat Waktu;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-395;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-396;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-397;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-398;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-399;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-400;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-401;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-402;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-403;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-404;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-405;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-406;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-407;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-408;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-409;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-410;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-411;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-412;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-413;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-414;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-415;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-416;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-417;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-418;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-419;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-420;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-421;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-422;Terlambat;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-423;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-424;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-425;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-426;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-427;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-428;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-429;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-430;Terlambat;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-431;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-432;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-433;Tepat Waktu;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-434;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-435;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-436;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-437;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-438;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-439;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-440;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-441;Tepat Waktu;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-442;Tepat Waktu;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-443;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-444;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-445;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-446;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-447;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-448;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-449;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-450;Terlambat;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-451;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-452;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-453;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-454;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-455;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-456;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-457;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-458;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-459;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-460;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-461;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-462;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-463;Terlambat;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-464;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-465;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-466;Tepat Waktu;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-467;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-468;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-469;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-470;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-471;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-472;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-473;Terlambat;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-474;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-475;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-476;Terlambat;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-477;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-478;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-479;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-480;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-481;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-482;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-483;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-484;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-485;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-486;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-487;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-488;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-489;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-490;Terlambat;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-491;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-492;Tepat Waktu;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-493;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-494;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-495;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-496;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-497;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-498;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-499;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-500;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-501;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-502;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-503;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-504;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-505;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-506;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-507;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-508;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-509;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-510;Tepat Waktu;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-511;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-512;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-513;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-514;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-515;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-516;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-517;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-518;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-519;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-520;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-521;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-522;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-523;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-524;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-525;Terlambat;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-526;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-527;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-528;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-529;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-530;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-531;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-532;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-533;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-534;Terlambat;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-535;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-536;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-537;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-538;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-539;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-540;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-541;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-542;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-543;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-544;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-545;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-546;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-547;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-548;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-549;Terlambat;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-550;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-551;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-552;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-553;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-554;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-555;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-556;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-557;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-558;Terlambat;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-559;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-560;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-561;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-562;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-563;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-564;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-565;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-566;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-567;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-568;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-569;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-570;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-571;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-572;Terlambat;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-573;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-574;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-575;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-576;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-577;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-578;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-579;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-580;Terlambat;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-581;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-582;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-583;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-584;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-585;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-586;Tepat Waktu;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-587;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-588;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-589;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-590;Terlambat;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-591;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-592;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-593;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-594;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-595;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-596;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-597;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-598;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-599;Tepat Waktu;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-600;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-601;Terlambat;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-602;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-603;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-604;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-605;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-606;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-607;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-608;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-609;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-610;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-611;Terlambat;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-612;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-613;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-614;Terlambat;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-615;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-616;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-617;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-618;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-619;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-620;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-621;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-622;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-623;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-624;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-625;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-626;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-627;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-628;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-629;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-630;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-631;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-632;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-633;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-634;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-635;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-636;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-637;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-638;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-639;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-640;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-641;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-642;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-643;Tepat Waktu;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-644;Terlambat;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-645;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-646;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-647;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-648;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-649;Tepat Waktu;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-650;Terlambat;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-651;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-652;Terlambat;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-653;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-654;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-655;Terlambat;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-656;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-657;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-658;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-659;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-660;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-661;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-662;Tepat Waktu;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-663;Tepat Waktu;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-664;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-665;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-666;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-667;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-668;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-669;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-670;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-671;Tepat Waktu;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-672;Terlambat;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-673;Terlambat;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-674;Terlambat;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-675;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-676;Terlambat;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-677;Terlambat;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-678;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-679;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-680;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-681;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-682;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-683;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-684;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-685;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-686;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-687;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-688;Tepat Waktu;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-689;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-690;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-691;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-692;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-693;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-694;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-695;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-696;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-697;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-698;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-699;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-700;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-701;Terlambat;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-702;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-703;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-704;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-705;Tepat Waktu;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-706;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-707;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-708;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-709;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-710;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-711;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-712;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-713;Terlambat;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-714;Terlambat;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-715;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-716;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-717;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-718;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-719;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-720;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-721;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-722;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-723;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-724;Tepat Waktu;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-725;Tepat Waktu;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-726;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-727;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-728;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-729;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-730;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-731;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-732;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-733;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-734;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-735;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-736;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-737;Terlambat;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-738;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-739;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-740;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-741;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-742;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-743;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-744;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-745;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-746;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-747;Tepat Waktu;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-748;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-749;Terlambat;10 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-750;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-751;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-752;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-753;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-754;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-755;Tepat Waktu;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-756;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-757;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-758;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-759;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-760;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-761;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-762;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-763;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-764;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-765;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-766;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-767;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-768;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-769;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-770;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-771;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-772;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-773;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-774;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-775;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-776;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-777;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-778;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-779;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-780;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-781;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-782;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-783;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-784;Tepat Waktu;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-785;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-786;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-787;Tepat Waktu;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-788;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-789;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-790;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-791;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-792;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-793;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-794;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-795;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-796;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-797;Terlambat;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-798;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-799;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-800;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-801;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-802;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-803;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-804;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-805;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-806;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-807;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-808;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-809;Tepat Waktu;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-810;Tepat Waktu;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-811;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-812;Terlambat;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-813;Terlambat;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-814;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-815;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-816;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-817;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-818;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-819;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-820;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-821;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-822;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-823;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-824;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-825;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-826;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-827;Tepat Waktu;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-828;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-829;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-830;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-831;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-832;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-833;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-834;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-835;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-836;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-837;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-838;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-839;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-840;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-841;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-842;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-843;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-844;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-845;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-846;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-847;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-848;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-849;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-850;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-851;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-852;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-853;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-854;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-855;Terlambat;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-856;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-857;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-858;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-859;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-860;Tepat Waktu;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-861;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-862;Tepat Waktu;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-863;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-864;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-865;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-866;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-867;Terlambat;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-868;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-869;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-870;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-871;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-872;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-873;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-874;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-875;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-876;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-877;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-878;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-879;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-880;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-881;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-882;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-883;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-884;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-885;Tepat Waktu;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-886;Tepat Waktu;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-887;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-888;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-889;Terlambat;3 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-890;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-891;Tepat Waktu;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-892;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-893;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-894;Tepat Waktu;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-895;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-896;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-897;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-898;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-899;Tepat Waktu;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-900;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-901;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-902;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-903;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-904;Terlambat;2 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-905;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-906;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-907;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-908;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-909;Terlambat;2 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-910;Tepat Waktu;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-911;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-912;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-913;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-914;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-915;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-916;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-917;Tepat Waktu;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-918;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-919;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-920;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-921;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-922;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-923;Tepat Waktu;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-924;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-925;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-926;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-927;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-928;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-929;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-930;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-931;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-932;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-933;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-934;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-935;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-936;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-937;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-938;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-939;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-940;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-941;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-942;Terlambat;2 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-943;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-944;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-945;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-946;Terlambat;6 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-947;Terlambat;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-948;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-949;Terlambat;2 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-950;Tepat Waktu;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-951;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-952;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-953;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-954;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-955;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-956;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-957;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-958;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-959;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-960;Terlambat;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-961;Terlambat;8 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-962;Terlambat;3 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-963;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-964;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-965;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-966;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-967;Tepat Waktu;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-968;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-969;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-970;Tepat Waktu;0 kali;< Rp500 Ribu;Stabil;Potensial
+N-971;Tepat Waktu;3 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-972;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-973;Terlambat;8 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-974;Terlambat;9 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-975;Tepat Waktu;1 kali;Rp0;Stabil;Potensial
+N-976;Tepat Waktu;4 kali;< Rp500 Ribu;Stabil;Dipertimbangkan
+N-977;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-978;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-979;Terlambat;4 kali;< Rp500 Ribu;Tidak Stabil;Dipertimbangkan
+N-980;Terlambat;4 kali;Rp1 - 2 Juta;Stabil;Dipertimbangkan
+N-981;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-982;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-983;Terlambat;9 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-984;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-985;Terlambat;6 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-986;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-987;Terlambat;5 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-988;Terlambat;3 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-989;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-990;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-991;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-992;Terlambat;7 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-993;Terlambat;4 kali;Rp1 - 2 Juta;Tidak Stabil;Dipertimbangkan
+N-994;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-995;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-996;Tepat Waktu;1 kali;< Rp500 Ribu;Stabil;Potensial
+N-997;Terlambat;10 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
+N-998;Terlambat;7 kali;Rp1 - 2 Juta;Tidak Stabil;Tidak Potensial
+N-999;Tepat Waktu;0 kali;Rp0;Stabil;Potensial
+N-1000;Terlambat;5 kali;> Rp2 Juta;Tidak Stabil;Tidak Potensial
