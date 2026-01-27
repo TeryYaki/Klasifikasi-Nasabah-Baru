@@ -1,71 +1,47 @@
-# 🚀 Smart Naïve Bayes: Sistem Klasifikasi Potensi Nasabah
+# 🚀 Smart Naïve Bayes: Sistem Klasifikasi Potensi Nasabah (v2.0)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![Framework](https://img.shields.io/badge/Framework-Flask-green?style=flat&logo=flask)
-![Algorithm](https://img.shields.io/badge/Algorithm-Naïve%20Bayes-orange)
+![Data Analysis](https://img.shields.io/badge/Data-Pandas-150458?style=flat&logo=pandas)
+![Status](https://img.shields.io/badge/Status-Stable-success)
 
-**Aplikasi cerdas berbasis web** untuk memprediksi potensi nasabah (Potensial/Tidak) berdasarkan data historis pembayaran. Sistem ini tidak hanya menghitung peluang statistik, tetapi juga dilengkapi dengan **Active Learning** dan **Validasi Adaptif** yang membuatnya semakin pintar seiring penggunaan.
-
----
-
-## 🌟 Mengapa Sistem Ini Berbeda?
-
-Berbeda dengan aplikasi klasifikasi biasa, sistem ini memiliki "penjaga" logika yang dinamis. Ia **mempelajari pola dataset Anda** terlebih dahulu sebelum menerima input baru, mencegah data tidak wajar masuk ke dalam sistem, serta mampu membaca input bahasa manusia yang fleksibel.
-
-### Fitur Unggulan
-
-1.  **🧠 Validasi Logika Adaptif (The Guardian)**
-    Fitur keamanan data yang tidak kaku, melainkan belajar dari sejarah.
-    * *Historical Boundary:* Jika nasabah 'Tepat Waktu' di masa lalu maksimal hanya pernah terlambat 2 kali, sistem akan **menolak** input baru yang mengaku 'Tepat Waktu' tapi terlambat 5 kali.
-    * *Logical Guard:* Mencegah kontradiksi fatal, seperti status 'Terlambat' namun frekuensi '0 Kali'.
-
-2.  **🔢 Smart Input Parsing (Regex Engine)**
-    Input data tidak harus kaku. Sistem memahami format manusia.
-    * Mengetik `1-2 Juta`? Sistem otomatis membacanya sebagai **2.000.000**.
-    * Mengetik `Rp 500 Ribu`, `< 500rb`, atau `10 Juta`? Semua terbaca akurat sebagai angka numerik.
-
-3.  **🔄 Active Learning System**
-    Sistem ini tumbuh bersama bisnis Anda. Hasil prediksi yang sudah dikonfirmasi dapat disimpan kembali ke dataset utama, membuat AI semakin akurat di masa depan.
-
-4.  **🔍 Self-Diagnostic (Cek Akurasi)**
-    Sistem menguji dirinya sendiri dengan memisahkan 20% data secara acak sebagai soal ujian, lalu memberikan skor kepercayaan (%) kepada pengguna.
+**Smart Naïve Bayes** adalah aplikasi web cerdas untuk memprediksi kelayakan nasabah koperasi (Potensial, Tidak Potensial, atau Dipertimbangkan). Aplikasi ini tidak hanya sekadar kalkulator statistik, tetapi menggabungkan algoritma **Naïve Bayes** dengan **Active Learning**, **Validasi Logika Adaptif**, dan **Visualisasi Data Real-time** untuk keputusan bisnis yang akurat.
 
 ---
 
-## 📖 Panduan Penggunaan Aplikasi (User Guide)
+## 🌟 Fitur Unggulan
 
-Setelah aplikasi berjalan di browser, ikuti langkah-langkah berikut untuk melakukan analisis:
+| Fitur | Deskripsi |
+| :--- | :--- |
+| **🧠 The Guardian (Logic Guard)** | **Validasi Cerdas:** Sistem mempelajari sejarah data. Jika nasabah 'Tepat Waktu' tidak pernah terlambat >2 kali, sistem akan menolak input baru yang mengaku 'Tepat Waktu' tapi terlambat 5 kali. Mencegah anomali dan kontradiksi data. |
+| **🧪 Batch Processing (Baru!)** | **Efisiensi Tinggi:** Tidak perlu input satu per satu. Upload file CSV berisi ratusan data nasabah, dan sistem akan memprediksi semuanya sekaligus dalam hitungan detik. |
+| **📊 Smart Dashboard (Baru!)** | **Visual Insight:** Pantau kesehatan portofolio nasabah melalui *Doughnut Chart* (distribusi kelas) dan *Bar Chart* (konsistensi pembayaran) secara real-time. |
+| **🔢 Regex Input Parsing** | **Human-Friendly:** Input data fleksibel. Mengetik `1.5 Juta` atau `Rp 500rb` akan otomatis dikonversi sistem menjadi angka numerik yang valid (`1500000` / `500000`). |
+| **🔄 Active Learning** | **Self-Improving AI:** Setiap hasil prediksi manual yang Anda simpan akan masuk ke dataset latih, membuat model semakin pintar dan akurat seiring berjalannya waktu. |
 
-### 1. 📂 Tahap 1: Upload Dataset
-Saat pertama kali membuka aplikasi, sistem masih kosong.
-1.  Siapkan file data nasabah dalam format **.CSV**.
-2.  Klik tombol **"Choose File"** pada kotak *Manajemen Dataset*.
-3.  Klik **"Upload"**. (Sistem akan otomatis menampilkan riwayat data jika berhasil).
+---
 
-### 2. 📊 Tahap 2: Cek Kesehatan Model (Opsional)
-1.  Klik tombol biru **"🔍 Cek Sekarang"** di panel *Statistik Performa*.
-2.  **Hasil:**
-    * 🟢 **Hijau (>70%):** Model pintar & siap digunakan.
-    * 🔴 **Merah (<60%):** Data latih mungkin kurang konsisten, namun tetap bisa digunakan.
+## 📖 Panduan Penggunaan (User Guide)
 
-### 3. 🧮 Tahap 3: Input Data Nasabah Baru
-Isi formulir prediksi. Fitur **Smart Input** aktif di sini:
-* **Ketepatan Waktu:** Pilih status (Tepat Waktu / Terlambat).
-* **Frekuensi:** Ketik angka biasa (misal `2`) atau teks (misal `2 Kali`).
-* **Tunggakan:** Ketik nominal bebas (Contoh: `1.5 Juta`, `Rp 500 Ribu`, atau `1-2 Juta`).
-* **Konsistensi:** Pilih tingkat kestabilan pembayaran.
+Ikuti langkah mudah berikut untuk menggunakan aplikasi:
 
-> **⚠️ Catatan:** Sistem akan menampilkan Error Merah jika Anda memasukkan data yang tidak logis atau bertentangan dengan sejarah dataset.
+### 1️⃣ Manajemen Dataset
+* Siapkan file data latih format **.CSV** (Gunakan contoh di folder `File Tambahan`).
+* Masuk ke menu **Dataset Management**.
+* Klik **"Choose File"** ➡️ **"Sinkronisasi Data"** untuk melatih otak AI.
 
-### 4. ⚡ Tahap 4: Lihat & Simpan (Active Learning)
-1.  Klik **"Analisa Sekarang"**.
-2.  Hasil akan muncul dengan badge **Hijau (Potensial)** atau **Merah (Tidak Potensial)**.
-3.  Jika Anda setuju dengan hasilnya, lihat kotak **"Simpan Data Ini?"** di bawah hasil.
-4.  Klik **"💾 Simpan & Perbarui Model"**. Data tersebut kini menjadi bagian dari kecerdasan AI.
+### 2️⃣ Monitoring Performa
+* Cek panel **Akurasi Model** untuk melihat tingkat kepercayaan sistem (%).
+* Analisa grafik pada **Distribusi Data** untuk melihat tren nasabah saat ini.
 
-### 5. 📥 Tahap 5: Download & Reset
-* **Download:** Klik tombol hijau **"📥 Download / Export Dataset"** untuk mengambil file CSV terbaru.
-* **Reset:** Klik tombol merah **"🗑️ Reset Semua"** jika ingin menghapus seluruh data dan memulai sesi baru.
+### 3️⃣ Proses Analisa (Multi-Tab)
+Gunakan tab navigasi sesuai kebutuhan:
+* **🧮 Hitungan Manual:** Untuk input detail satu nasabah. Cocok untuk wawancara atau verifikasi individual. Data bisa langsung disimpan ke dataset.
+* **🧪 Hitungan Batch:** Untuk uji massal data baru. Upload CSV nasabah baru, sistem akan memberi label otomatis. Hasil bisa diunduh via tombol **"Simpan CSV"**.
+
+### 4️⃣ Export & Maintenance
+* **Download:** Unduh dataset terbaru yang sudah diperkaya hasil *Active Learning*.
+* **Reset:** Tombol merah untuk menghapus seluruh memori dan memulai sesi baru dari nol.
 
 ---
 
@@ -93,35 +69,36 @@ Pastikan komputer Anda sudah terinstal **Python 3.x**.
     python app.py
     ```
 
-   ---
-
 ## 📸 Dokumentasi Antarmuka (UI)
 
-Berikut adalah tampilan langkah-langkah penggunaan aplikasi Smart Naïve Bayes:
+Berikut adalah galeri tampilan aplikasi Smart Naïve Bayes v2.0 beserta penjelasan fiturnya:
 
 <p align="center">
-  <b>1. Tampilan Utama & Manajemen Dataset</b><br>
-  <img src="Images/Gambar1.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
+  <b>1. Dashboard Utama & Manajemen Dataset</b><br>
+  <i>Tampilan awal untuk upload dataset pelatihan dan sinkronisasi sistem.</i><br><br>
+  <img src="Images/Gambar1.png" width="800" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 30px;">
 </p>
 
 <p align="center">
-  <b>2. Statistik Performa & Cek Akurasi</b><br>
-  <img src="Images/Gambar2.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
+  <b>2. Statistik Data & Self-Diagnostic Model</b><br>
+  <i>Visualisasi distribusi data nasabah (Doughnut & Bar Chart) serta fitur uji akurasi model secara real-time.</i><br><br>
+  <img src="Images/Gambar2.png" width="800" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 30px;">
 </p>
 
 <p align="center">
-  <b>3. Form Input Prediksi Nasabah</b><br>
-  <img src="Images/Gambar3.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
+  <b>3. Prediksi Manual dengan Validasi Logika (The Guardian)</b><br>
+  <i>Formulir input cerdas yang dilengkapi validasi logika historis dan fitur Active Learning.</i><br><br>
+  <img src="Images/Gambar3.png" width="800" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 30px;">
 </p>
 
 <p align="center">
-  <b>4. Hasil Analisa & Detail Perhitungan</b><br>
-  <img src="Images/Gambar4.png" width="800" style="border-radius: 10px; margin-bottom: 20px;">
+  <b>4. Riwayat Klasifikasi & Log Aktivitas</b><br>
+  <i>Tabel histori untuk memantau hasil prediksi yang telah dilakukan sebelumnya.</i><br><br>
+  <img src="Images/Gambar4.png" width="800" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 30px;">
 </p>
 
 <p align="center">
-  <b>5. Riwayat Analisa & Fitur Simpan Data</b><br>
-  <img src="Images/Gambar5.png" width="800" style="border-radius: 10px;">
+  <b>5. Fitur Batch Processing (Uji Massal)</b><br>
+  <i>Modul baru untuk memproses ratusan data nasabah sekaligus hanya dengan satu file CSV.</i><br><br>
+  <img src="Images/Gambar5.png" width="800" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 30px;">
 </p>
-
----

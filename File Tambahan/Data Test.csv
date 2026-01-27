@@ -1,0 +1,101 @@
+id_nasabah,ketepatan_waktu,frekuensi_terlambat,jumlah_tunggakan,konsistensi
+N-001,Tepat Waktu,0 kali,Rp0,Stabil
+N-002,Terlambat,3 kali,Rp1 - 2 Juta,Tidak Stabil
+N-003,Tepat Waktu,1 kali, Rp500 Ribu,Stabil
+N-004,Terlambat,5 kali, Rp2 Juta,Tidak Stabil
+N-005,Tepat Waktu,0 kali,Rp0,Stabil
+N-006,Terlambat,2 kali,Rp500 Ribu - 1 Juta,Kurang Stabil
+N-007,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-008,Terlambat,4 kali, Rp2 Juta,Tidak Stabil
+N-009,Tepat Waktu,1 kali,Rp0,Stabil
+N-010,Terlambat,1 kali,Rp1 - 2 Juta,Kurang Stabil
+N-011,Tepat Waktu,0 kali,Rp0,Stabil
+N-012,Terlambat,6 kali, Rp2 Juta,Tidak Stabil
+N-013,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-014,Terlambat,3 kali,Rp500 Ribu - 1 Juta,Tidak Stabil
+N-015,Tepat Waktu,1 kali,Rp0,Stabil
+N-016,Tepat Waktu,0 kali,Rp0,Stabil
+N-017,Terlambat,2 kali,Rp1 - 2 Juta,Kurang Stabil
+N-018,Terlambat,5 kali, Rp2 Juta,Tidak Stabil
+N-019,Tepat Waktu,1 kali, Rp500 Ribu,Stabil
+N-020,Terlambat,4 kali,Rp1 - 2 Juta,Tidak Stabil
+N-021,Tepat Waktu,0 kali,Rp0,Stabil
+N-022,Terlambat,3 kali,Rp500 Ribu - 1 Juta,Kurang Stabil
+N-023,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-024,Terlambat,7 kali, Rp2 Juta,Tidak Stabil
+N-025,Tepat Waktu,1 kali,Rp0,Stabil
+N-026,Terlambat,2 kali,Rp1 - 2 Juta,Kurang Stabil
+N-027,Tepat Waktu,0 kali,Rp0,Stabil
+N-028,Terlambat,5 kali, Rp2 Juta,Tidak Stabil
+N-029,Tepat Waktu,1 kali, Rp500 Ribu,Stabil
+N-030,Terlambat,3 kali,Rp1 - 2 Juta,Tidak Stabil
+N-031,Tepat Waktu,0 kali,Rp0,Stabil
+N-032,Terlambat,2 kali,Rp500 Ribu - 1 Juta,Kurang Stabil
+N-033,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-034,Terlambat,4 kali, Rp2 Juta,Tidak Stabil
+N-035,Tepat Waktu,1 kali,Rp0,Stabil
+N-036,Terlambat,1 kali,Rp1 - 2 Juta,Kurang Stabil
+N-037,Tepat Waktu,0 kali,Rp0,Stabil
+N-038,Terlambat,6 kali, Rp2 Juta,Tidak Stabil
+N-039,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-040,Terlambat,3 kali,Rp500 Ribu - 1 Juta,Tidak Stabil
+N-041,Tepat Waktu,1 kali,Rp0,Stabil
+N-042,Tepat Waktu,0 kali,Rp0,Stabil
+N-043,Terlambat,2 kali,Rp1 - 2 Juta,Kurang Stabil
+N-044,Terlambat,5 kali, Rp2 Juta,Tidak Stabil
+N-045,Tepat Waktu,1 kali, Rp500 Ribu,Stabil
+N-046,Terlambat,4 kali,Rp1 - 2 Juta,Tidak Stabil
+N-047,Tepat Waktu,0 kali,Rp0,Stabil
+N-048,Terlambat,3 kali,Rp500 Ribu - 1 Juta,Kurang Stabil
+N-049,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-050,Terlambat,7 kali, Rp2 Juta,Tidak Stabil
+N-051,Tepat Waktu,1 kali,Rp0,Stabil
+N-052,Terlambat,2 kali,Rp1 - 2 Juta,Kurang Stabil
+N-053,Tepat Waktu,0 kali,Rp0,Stabil
+N-054,Terlambat,5 kali, Rp2 Juta,Tidak Stabil
+N-055,Tepat Waktu,1 kali, Rp500 Ribu,Stabil
+N-056,Terlambat,3 kali,Rp1 - 2 Juta,Tidak Stabil
+N-057,Tepat Waktu,0 kali,Rp0,Stabil
+N-058,Terlambat,2 kali,Rp500 Ribu - 1 Juta,Kurang Stabil
+N-059,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-060,Terlambat,4 kali, Rp2 Juta,Tidak Stabil
+N-061,Tepat Waktu,1 kali,Rp0,Stabil
+N-062,Terlambat,1 kali,Rp1 - 2 Juta,Kurang Stabil
+N-063,Tepat Waktu,0 kali,Rp0,Stabil
+N-064,Terlambat,6 kali, Rp2 Juta,Tidak Stabil
+N-065,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-066,Terlambat,3 kali,Rp500 Ribu - 1 Juta,Tidak Stabil
+N-067,Tepat Waktu,1 kali,Rp0,Stabil
+N-068,Tepat Waktu,0 kali,Rp0,Stabil
+N-069,Terlambat,2 kali,Rp1 - 2 Juta,Kurang Stabil
+N-070,Terlambat,5 kali, Rp2 Juta,Tidak Stabil
+N-071,Tepat Waktu,1 kali, Rp500 Ribu,Stabil
+N-072,Terlambat,4 kali,Rp1 - 2 Juta,Tidak Stabil
+N-073,Tepat Waktu,0 kali,Rp0,Stabil
+N-074,Terlambat,3 kali,Rp500 Ribu - 1 Juta,Kurang Stabil
+N-075,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-076,Terlambat,7 kali, Rp2 Juta,Tidak Stabil
+N-077,Tepat Waktu,1 kali,Rp0,Stabil
+N-078,Terlambat,2 kali,Rp1 - 2 Juta,Kurang Stabil
+N-079,Tepat Waktu,0 kali,Rp0,Stabil
+N-080,Terlambat,5 kali, Rp2 Juta,Tidak Stabil
+N-081,Tepat Waktu,1 kali, Rp500 Ribu,Stabil
+N-082,Terlambat,3 kali,Rp1 - 2 Juta,Tidak Stabil
+N-083,Tepat Waktu,0 kali,Rp0,Stabil
+N-084,Terlambat,2 kali,Rp500 Ribu - 1 Juta,Kurang Stabil
+N-085,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-086,Terlambat,4 kali, Rp2 Juta,Tidak Stabil
+N-087,Tepat Waktu,1 kali,Rp0,Stabil
+N-088,Terlambat,1 kali,Rp1 - 2 Juta,Kurang Stabil
+N-089,Tepat Waktu,0 kali,Rp0,Stabil
+N-090,Terlambat,6 kali, Rp2 Juta,Tidak Stabil
+N-091,Tepat Waktu,2 kali, Rp500 Ribu,Stabil
+N-092,Terlambat,3 kali,Rp500 Ribu - 1 Juta,Tidak Stabil
+N-093,Tepat Waktu,1 kali,Rp0,Stabil
+N-094,Tepat Waktu,0 kali,Rp0,Stabil
+N-095,Terlambat,2 kali,Rp1 - 2 Juta,Kurang Stabil
+N-096,Terlambat,5 kali, Rp2 Juta,Tidak Stabil
+N-097,Tepat Waktu,1 kali, Rp500 Ribu,Stabil
+N-098,Terlambat,4 kali,Rp1 - 2 Juta,Tidak Stabil
+N-099,Tepat Waktu,0 kali,Rp0,Stabil
+N-100,Terlambat,3 kali,Rp500 Ribu - 1 Juta,Kurang Stabil

@@ -264,3 +264,9 @@ summary:hover { text-decoration: underline; }
 canvas {
     max-height: 250px;
 }
+
+/* Mengatur lebar kolom agar lebih proporsional setelah kolom lain dihapus */
+.table-container th:nth-child(2), 
+.table-container td:nth-child(2) {
+    width: 60%;
+}
